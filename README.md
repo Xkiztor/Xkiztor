@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ugo Linder
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently with Web Development.
-- 💞️ I’m looking to collaborate on Coding.
+- 😎 I’m specialized with Vue 3 and Nuxt 3 development.
 - 📫 How to reach me: 
   - E-Mail: ugo.linder@gmail.com
   - Discord: [Xki#1830](https://www.discord.com)
